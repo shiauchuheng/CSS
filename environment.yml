@@ -10,7 +10,6 @@ dependencies:
   - cycler=0.10.0
   - decorator=4.3.0
   - freetype=2.8
-  - icc_rt=2017.0.4
   - icu=58.2
   - intel-openmp=2018.0.3
   - ipykernel=4.8.2
