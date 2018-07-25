@@ -13,5 +13,6 @@ dependencies:
   - pandas=0.23.1
   - python=3.6.6
   - scipy=1.1.0
+  - bs4
 prefix: C:\Users\User\AppData\Local\conda\conda\envs\binder_env
 
