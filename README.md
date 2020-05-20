@@ -38,8 +38,8 @@ Part4: Final report
 
 
 Group member:
-Chuyi Sun
-Md Kamal Hossain
-Shiau Chu Heng 
+Chuyi Sun,
+Md Kamal Hossain,
+Shiau Chu Heng ,
 Shide Adibi
 
